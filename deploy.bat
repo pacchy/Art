@@ -1,0 +1,1 @@
+xcopy /s /y /i d:\workspace\artmo\art "C:\Program Files (x86)\Apache Software Foundation\Tomcat 8.0\webapps\Artmo" /exclude:excluded.txt

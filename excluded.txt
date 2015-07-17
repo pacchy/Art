@@ -1,0 +1,4 @@
+d:\workspace\artmo\art\lib
+d:\workspace\artmo\art\packages
+d:\workspace\artmo\art\excluded.txt
+d:\workspace\artmo\art\deploy.bat
